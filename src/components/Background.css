@@ -1,0 +1,33 @@
+.bg-container {
+    position: relative;
+    height: 70vh;
+    width: auto;
+    background-image: url('../asset/background.jpg');
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    margin: 20px;
+    animation: fade-in 2s ease;
+}
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.bg-text-block{
+        position: absolute;
+        font-size: large;
+        top: 50%;
+        text-align: center;
+        width: 100%;
+        color: white;
+        font-weight: bold;
+}
+.bg-text-block > h4 {
+    font-size: 40px;
+    
+}

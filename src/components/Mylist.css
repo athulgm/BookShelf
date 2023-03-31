@@ -1,0 +1,103 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+img {
+    max-width: 100px;
+}
+
+.crud_btn, Link {
+    width: 80%;
+    height: 40px;
+    margin: 15px 15px 0 15px;
+    border-radius: 20px;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    
+}
+
+article {
+    width: 45%;
+    margin: auto;
+    display: flex;
+    gap: 10px;
+}
+
+.book_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25px;
+}
+
+.table_info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    height: auto;
+}
+.mainContainer{
+    width: 100%;
+    margin: 20px;
+}
+.title {
+    font-weight: bold;
+}
+
+h3,
+p {
+    padding: 5px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.back_btn{
+            width: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 10px;
+            right: 0;
+            margin: 5px;
+            padding: 10px;
+}
+.List{
+    display: flex;
+    gap: 10px;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+.button{
+    display: flex;
+}

@@ -1,0 +1,43 @@
+.home{
+display: flex;
+height: 10vh;
+justify-content: center;
+align-items: center;
+width: auto;
+
+}
+.homebtn{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    right: 0;
+    margin-right: 5px;
+}
+.home_info{
+    padding: 25px;
+    display: flex;
+
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.linkp {
+     color: darkgreen;
+     text-decoration: none;
+}
+
+.homebuttons{
+    display: flex;
+    justify-content: flex-end;
+        align-items: center;
+        gap: 20px;
+        width: 100%;
+}
+.avatar{
+    width:40px;
+    height: 40px;
+}
