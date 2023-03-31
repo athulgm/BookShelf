@@ -21,18 +21,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
-<div><br><br>
-<b>Objective:</b><br> The objective of this project would be to develop a web-based to-do application that is user-friendly, highly functional, and securely hosted on Firebase. The application will be developed using HTML, CSS, and React, and will leverage the power of Firebase for hosting. The goal is to create a to-do application that is accessible from any web browser, easy to use, and provides users with a seamless experience for organizing and managing their tasks.
-<br><br>
-
-<b>Functional Requirements:</b>
-* Users should be able to create, edit, and delete tasks.
-* Display the list of todo in the browser.
-* Allow the user to delete the done a todo and add a new one.
-* App can be used on browser only.
-
-<br>
-<b>Outcome:</b><br>A highly functional, user-friendly web-based to-do application that provides users with an effective tool for organizing and managing their tasks. <br> Live Demo Link: https://bookshelf-ef0a5.web.app/
+<div><br>
+ Live Demo Link: https://bookshelf-ef0a5.web.app/
 </div>
 
 
